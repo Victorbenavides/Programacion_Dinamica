@@ -1,4 +1,4 @@
-# Programaci-n_Dinamica
+# Programacion_Dinamica
 1. Optimización de cortes (cut_rod)
 Aquí hacemos un ejercicio de maximización de ganancias:
 
